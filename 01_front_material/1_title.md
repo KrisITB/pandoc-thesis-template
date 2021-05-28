@@ -1,4 +1,4 @@
-\newcommand\titleLineOne{Why is there no butter in the fridge}
+\newcommand\titleLineOne{Test1 line}
 \newcommand\titleLineTwo{(I don't want to walk to the shops)}
 \newcommand\thesisAuthor{Charlotte Smith}
 \newcommand\supervisor{Dr. Matt Smith}
